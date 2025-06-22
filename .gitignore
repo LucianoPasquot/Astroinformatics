@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.csv
+*.h5
+*.zip
+*.tar.gz
+*.pickle
+*.ipynb_checkpoints/

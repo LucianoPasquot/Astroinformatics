@@ -1,0 +1,5 @@
+{
+    "codeium.enableExplainProblem": false,
+    "codeium.enableCommandSideHintEducation": true,
+    "codeium.enableSearch": true
+}
